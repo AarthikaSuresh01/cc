@@ -1,0 +1,41 @@
+body{
+    background-color:azure;
+    text-align: center;
+    
+  }
+  #G
+  {
+    text-align: center;
+    
+    
+  }
+  #p{
+    height: 200px;
+    width: 200px;
+    padding-right: 100%;
+    transform: translate(50px,-200px);
+  }
+  #pic
+  {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    transform: translate(150px,-100px);
+  }
+  #word
+  {
+    font-size: 500%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+  }
+  #in
+  {
+    height: 50px;
+    width: 50px;
+  }
+  #in1
+  {
+    height: 50px;
+    width: 50px;
+    padding-left: 1%;
+  }
